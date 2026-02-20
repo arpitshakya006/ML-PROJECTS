@@ -1,1 +1,0 @@
-# House-price-pridiction-project
